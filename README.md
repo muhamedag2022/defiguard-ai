@@ -289,9 +289,9 @@ This repository contains the **conceptual demonstration** of DeFi Guard AI, show
 
 ## 📞 Contact
 
-- **Email**: [your-email@example.com]
-- **Twitter**: [@your-handle]
-- **Telegram**: [@your-telegram]
+- **Email**: [Cutesmal2022@gmail.com]
+- **Twitter**: [@Simowolf369]
+- **Telegram**: [@MohammedTG540]
 - **HashKey Chain**: Building on the future of regulated DeFi
 
 **Demo:** [muhamedag2022.github.io/defiguard-ai](https://muhamedag2022.github.io/defiguard-ai/defiguard-ai-demo.html)  
